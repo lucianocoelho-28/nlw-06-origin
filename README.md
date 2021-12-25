@@ -13,6 +13,8 @@
 
 <br>
 
+<p>Pode acessar a pagina por <a href='https://lucianocoelho-28.github.io/nlw-06-origin/'> Aqui</a></p>
+
 <p align="center">
   <img alt="OriginSix" src=".github/preview.png" width="100%">
 </p>
