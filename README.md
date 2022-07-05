@@ -1,14 +1,27 @@
+<h4 align="center">
+  🚀 Semana NLW#6 - Mission Origin
+</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianocoelho-28/nlw-06-origin">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianocoelho-28/nlw-06-origin">
+  
+  <a href="https://github.com/lucianocoelho-28/nlw-06-origin/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianocoelho-28/nlw-06-origin">
+  </a>
+
+  <a href="https://github.com/lucianocoelho-28/nlw-06-origin/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianocoelho-28/nlw-06-origin">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -46,7 +59,7 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 📝 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
